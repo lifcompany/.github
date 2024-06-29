@@ -1,7 +1,7 @@
 # Blitzwrite: Your All-in-One AI Writing Tool
 <div align=center>
 
-<img src="https://github.com/lifcompany/.github/blob/main/logo.svg" >
+<img src="https://github.com/lifcompany/.github/blob/main/logo.svg" width=500 >
 
 </div>
 
