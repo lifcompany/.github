@@ -1,5 +1,9 @@
 # Blitzwrite: Your All-in-One AI Writing Tool
+<div align=center>
 
+<img src="https://github.com/lifcompany/.github/assets/top.png" width=200 height=200>
+
+</div>
 Blitzwrite is a comprehensive AI-powered writing tool designed to streamline the content creation process. With integrated keyword research, article creation using ChatGPT, and direct WordPress upload capabilities, Blitzwrite is the ultimate solution for bloggers, marketers, and content creators.
 
 
